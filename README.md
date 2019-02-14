@@ -19,3 +19,4 @@ Place these files in a respective relative path:
     ln -s ~/general/jetbrains_env/templates ~/Library/Preferences/AndroidStudio/
     ln -s ~/general/jetbrains_env/colors ~/Library/Preferences/AndroidStudio/
     ln -s ~/general/jetbrains_env/codestyles ~/Library/Preferences/AndroidStudio/
+Modified
